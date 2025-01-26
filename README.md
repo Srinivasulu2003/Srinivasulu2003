@@ -9,6 +9,8 @@
 - 💡 Passionate about **deep learning**, **AI development**, and **contributing to open-source projects**.
 - ❤️ Enthusiastic about advancing technology for the benefit of society, especially in the **Indian market**.
 - 🤝 Actively seeking to collaborate on **exciting AI/ML projects**.
+- 💼 I am working as an **NLP Engineer**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
