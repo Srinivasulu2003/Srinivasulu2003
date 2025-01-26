@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Srinivasulu Kethanaboina</strong></h1>
 <h3 align="center">NLP Engineer | AI Enthusiast | Open Source Contributor</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Srinivasulu2003/Srinivasulu2003/refs/heads/main/aa.gif">
----------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Srinivasulu2003&label=Profile%20views&color=0e75b6&style=flat" alt="Srinivasulu2003" /> </p>
 
 ## About Me 🌟
 - 🔭 I'm currently exploring **Generative AI** and **Machine Learning** techniques.
