@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>Srinivasulu Kethanaboina</strong></h1>
 <h3 align="center">NLP Engineer | AI Enthusiast | Open Source Contributor</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/software-engineer-launching-code-animation-download-in-lottie-json-gif-static-svg-file-formats--website-project-launch-startup-web-development-pack-design-animations-5304700.mp4">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Srinivasulu2003/Srinivasulu2003/refs/heads/main/aa.gif">
 <p align="left"> <img src="" alt="Srinivasulu2003" /> </p>
 
 ## About Me 🌟
