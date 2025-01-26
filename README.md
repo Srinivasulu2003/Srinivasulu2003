@@ -49,7 +49,8 @@ Created an interactive chatbot to assist students with college-related queries, 
 
 Implemented a deep learning model for accurate detection of brain tumors using medical imaging data, enhancing diagnostic processes.
 
----
+You can explore all my repositories here: [Srinivasulu2003 GitHub](https://github.com/Srinivasulu2003)
+--
 
 ## 🏆 Achievements
 
