@@ -34,16 +34,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 </p>
 
-<h3 align="left">Projects</h3>
-<p align="left">
-  <a href="https://github.com/Srinivasulu2003/Hotel-Analysis-Dashboard" target="_blank">Hotel Analysis Dashboard</a> - Developed a dynamic dashboard for hotel data analysis using Streamlit.
-</p>
-<p align="left">
-  <a href="https://github.com/Srinivasulu2003/College-Chatbot" target="_blank">College Chatbot</a> - Built a chatbot for student queries using advanced NLP models and APIs.
-</p>
-<p align="left">
-  <a href="https://github.com/Srinivasulu2003/Brain-Tumor-Detection" target="_blank">Brain Tumor Detection</a> - Implemented a deep learning model for detecting brain tumors using medical imaging data.
-</p>
+
 
 <h3 align="left">GitHub Stats</h3>
 <div align="center">
