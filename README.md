@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Srinivasulu Kethanaboina</strong></h1>
 <h3 align="center">NLP Engineer | AI Enthusiast | Open Source Contributor</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<p align="left"> <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-developer-working-at-office-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-programmer-development-programming-coding-design-pack-animations-7495614.mp4" alt="Srinivasulu2003" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/software-engineer-launching-code-animation-download-in-lottie-json-gif-static-svg-file-formats--website-project-launch-startup-web-development-pack-design-animations-5304700.mp4">
+<p align="left"> <img src="" alt="Srinivasulu2003" /> </p>
 
 ## About Me 🌟
 - 🔭 I'm currently exploring **Generative AI** and **Machine Learning** techniques.
